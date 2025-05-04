@@ -15,6 +15,4 @@ Right now, JLMB is still in the early stages of development, so there’s no rea
 
 - Restore options to get files back if needed
 
-- Option to upload backups to remote FTP/SFTP servers
-
-- Task scheduling to automate backups in the background
+- Option to upload backups to remote FTP(S)/SFTP servers
